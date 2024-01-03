@@ -1,7 +1,18 @@
 # HabitTracker: Building Better Habits
 
 ## Overview
-HabitTracker is a straightforward and user-friendly iOS app designed to help users track and maintain their daily habits. The app offers a simple interface for adding, viewing, and managing personal habits.
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/penguin-waddle/HabitTracker/assets/123434744/493ec11f-8a47-4f50-9297-1529b36a0593" alt="Habit Tracker App Demo" width="300" />
+    </td>
+    <td>
+      HabitTracker is a straightforward and user-friendly iOS app designed to help users track and maintain their daily habits. The app offers a simple interface for adding, viewing, and managing personal habits.
+    <br><br>
+<em><b>Please Note:</b> This project demo was created and recorded in Swift Playgrounds on iPad, leading to an aspect ratio that may differ from the latest iPhone models.</em>
+    </td>
+  </tr>
+</table>
 
 ## Features
 - **Add New Habits**: Easily add new habits with a name and description.
@@ -33,3 +44,5 @@ Creating HabitTracker has been a valuable experience in understanding the basics
 *Note: This project is part of the "100 Days of SwiftUI" course. It serves as a practical application of SwiftUI concepts and data handling techniques learned during the course.*
 
 ---
+
+[Back to Main Repository](https://github.com/penguin-waddle/100-Days-of-SwiftUI)
